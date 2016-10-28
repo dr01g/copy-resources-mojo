@@ -132,7 +132,7 @@
 		<repository>
 			<id>bintray</id>
 			<name>Bintray</name>
-			<url>https://api.bintray.com/maven/daniel4711/maven/copy-resources-mojo/;publish=0</url>
+			<url>https://api.bintray.com/maven/daniel4711/maven/MOJOS/;publish=0</url>
 		</repository>
 	</distributionManagement>
 
