@@ -118,8 +118,8 @@
   </profiles>
   <scm>
   	<tag>HEAD</tag>
-  	<connection>https://github.com/dr01g/copy-resources-mojo.git</connection>
-  	<developerConnection>https://github.com/dr01g/copy-resources-mojo.git</developerConnection>
+  	<connection>scm:git:https://github.com/dr01g/copy-resources-mojo.git</connection>
+  	<developerConnection>scm:git:https://github.com/dr01g/copy-resources-mojo.git</developerConnection>
   </scm>
     <distributionManagement>
     <repository>
