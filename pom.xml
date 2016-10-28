@@ -3,7 +3,7 @@
 
 	<groupId>com.j2trp</groupId>
 	<artifactId>copy-resources-maven-plugin</artifactId>
-	<version>1.2</version>
+	<version>1.3-SNAPSHOT</version>
 	<packaging>maven-plugin</packaging>
 
 	<name>Copy Resources with encoding Maven Plugin</name>
@@ -124,7 +124,7 @@
 		</profile>
 	</profiles>
 	<scm>
-		<tag>1.2</tag>
+		<tag>HEAD</tag>
 		<connection>scm:git:https://github.com/dr01g/copy-resources-mojo.git</connection>
 		<developerConnection>scm:git:https://github.com/dr01g/copy-resources-mojo.git</developerConnection>
 	</scm>
